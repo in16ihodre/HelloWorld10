@@ -5,12 +5,9 @@ package com.example.helloworld10;
 
 
 //asdasffffffasf
-//
-//
-//
-//
-//asdafsasd
 
+
+///////////////////////////////////////////////
 
 import android.os.Bundle;
 import android.app.Activity;
